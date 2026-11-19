@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Skwizy mark: plates cut out of a solid block, the gaps tightening hard
+       toward the centre so the block reads as compressed. Gaps run 4 at the
+       edges to 1.5 in the middle - the differential has to be large or it
+       just looks like an even grille. Echoes the hero cube, a plate stack. -->
+  <path fill="#2B5CFF" fill-rule="evenodd" d="
+    M16,2 H48 A14,14 0 0 1 62,16 V48 A14,14 0 0 1 48,62 H16 A14,14 0 0 1 2,48 V16 A14,14 0 0 1 16,2 Z
+    M18.5,16 a2,2 0 0 1 2,2 v28 a2,2 0 0 1 -2,2 a2,2 0 0 1 -2,-2 v-28 a2,2 0 0 1 2,-2 Z
+    M26.5,16 a2,2 0 0 1 2,2 v28 a2,2 0 0 1 -2,2 a2,2 0 0 1 -2,-2 v-28 a2,2 0 0 1 2,-2 Z
+    M32,16   a2,2 0 0 1 2,2 v28 a2,2 0 0 1 -2,2 a2,2 0 0 1 -2,-2 v-28 a2,2 0 0 1 2,-2 Z
+    M37.5,16 a2,2 0 0 1 2,2 v28 a2,2 0 0 1 -2,2 a2,2 0 0 1 -2,-2 v-28 a2,2 0 0 1 2,-2 Z
+    M45.5,16 a2,2 0 0 1 2,2 v28 a2,2 0 0 1 -2,2 a2,2 0 0 1 -2,-2 v-28 a2,2 0 0 1 2,-2 Z
+  "/>
+</svg>
